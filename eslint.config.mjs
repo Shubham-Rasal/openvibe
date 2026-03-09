@@ -12,6 +12,8 @@ const eslintConfig = defineConfig([
     "out/**",
     "build/**",
     "next-env.d.ts",
+    // External OpenCode tooling (not part of this app)
+    "opencode/**",
   ]),
 ]);
 
