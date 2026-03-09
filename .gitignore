@@ -32,6 +32,10 @@ yarn-error.log*
 
 # env files (can opt-in for committing if needed)
 .env*
+!.env.example
+
+# opencode — external package, not part of this repo
+/opencode/
 
 # vercel
 .vercel
