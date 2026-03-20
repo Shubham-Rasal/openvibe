@@ -2,6 +2,9 @@
 
 A web UI for [OpenCode](https://opencode.ai). Chat, build, and code with AI through a landing page and workspace with full OpenCode server parity.
 
+<img width="1512" height="868" alt="image" src="https://github.com/user-attachments/assets/a13d9eee-e543-4c8a-b4c0-ea3854907ac1" />
+
+
 ## Prerequisites
 
 - [OpenCode](https://opencode.ai) server running (e.g. `opencode serve`)
